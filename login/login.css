@@ -1,0 +1,21 @@
+img{
+   width: 130px; 
+   margin-bottom: 50px;
+}
+
+body{
+    text-align: center;
+    background-color: #f3f3f3;    
+}
+
+.container{
+    margin-top: 100px;
+}
+
+.botSpace{
+    margin-bottom: 15px;
+}
+
+#asdasda{
+    color: red;
+}
