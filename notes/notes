@@ -26,3 +26,15 @@ css properties
 3. text-align
 4. margin
 5. background-color
+6. background-image
+7. text-align
+8. position
+9. position space => top, left, bottom, right
+10. display
+11. cursor
+
+git commands
+
+1. To clone the repository => git clone and "https://github.com/shi-arch/html-css-bootstrap-training.git".
+2. To take update => git pull.
+
