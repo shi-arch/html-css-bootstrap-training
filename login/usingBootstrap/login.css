@@ -1,0 +1,40 @@
+body {
+    text-align: center;
+    background-image: url('./assets/bg.jpg');
+}
+
+.container {
+    margin-top: 100px;
+}
+
+.imgSize{
+    width: 130px;
+    margin-bottom: 18px;
+}
+
+.botSpace {
+    margin-bottom: 15px;
+    cursor: pointer;
+}
+
+.passClass {
+    position: absolute;
+    right: 59%;
+    top: 309px;
+}
+
+.labelClass {
+    margin-right: 10px;
+    font-size: 22px;    
+}
+
+.emailClass{
+    text-align: right;
+    padding-right: 0px;
+}
+
+.contSpace{
+    background-color: #b3a2a2;
+    padding-bottom: 50px;
+    border-radius: 14px;
+}
